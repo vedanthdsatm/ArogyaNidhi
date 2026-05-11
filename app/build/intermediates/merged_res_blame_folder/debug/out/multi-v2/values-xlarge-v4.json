@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.arogyaniidhi.app-mergeDebugResources-51:/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/vedanthmp/.gradle/caches/transforms-3/13285c46e138c0c1385c2992495c9b53/transformed/appcompat-1.6.1/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        }
+    ]
+}

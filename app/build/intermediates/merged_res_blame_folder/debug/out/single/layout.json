@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.arogyaniidhi.app-mergeDebugResources-52:/layout/fragment_document_guide.xml",
+        "source": "com.arogyaniidhi.app-main-55:/layout/fragment_document_guide.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-mergeDebugResources-52:/layout/fragment_hospital_list.xml",
+        "source": "com.arogyaniidhi.app-main-55:/layout/fragment_hospital_list.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-mergeDebugResources-52:/layout/fragment_news_updates.xml",
+        "source": "com.arogyaniidhi.app-main-55:/layout/fragment_news_updates.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-mergeDebugResources-52:/layout/fragment_result.xml",
+        "source": "com.arogyaniidhi.app-main-55:/layout/fragment_result.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-mergeDebugResources-52:/layout/fragment_eligibility_quiz.xml",
+        "source": "com.arogyaniidhi.app-main-55:/layout/fragment_eligibility_quiz.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.arogyaniidhi.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-mergeDebugResources-52:/layout/item_hospital.xml",
+        "source": "com.arogyaniidhi.app-main-55:/layout/item_hospital.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-mergeDebugResources-52:/layout/item_scheme_result.xml",
+        "source": "com.arogyaniidhi.app-main-55:/layout/item_scheme_result.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-mergeDebugResources-52:/layout/item_chat_message.xml",
+        "source": "com.arogyaniidhi.app-main-55:/layout/item_chat_message.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-mergeDebugResources-52:/layout/fragment_chatbot.xml",
+        "source": "com.arogyaniidhi.app-main-55:/layout/fragment_chatbot.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-mergeDebugResources-52:/layout/item_document_checklist.xml",
+        "source": "com.arogyaniidhi.app-main-55:/layout/item_document_checklist.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-mergeDebugResources-52:/layout/item_policy_news.xml",
+        "source": "com.arogyaniidhi.app-main-55:/layout/item_policy_news.xml"
+    }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette -->
+    <color name="colorPrimary">#0D47A1</color>
+    <color name="colorPrimaryDark">#002171</color>
+    <color name="colorPrimaryLight">#5472D3</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- UI Elements -->
+    <color name="white">#FFFFFF</color>
+    <color name="background_light">#F0F4F8</color>
+    <color name="text_primary">#102A43</color>
+    <color name="text_secondary">#486581</color>
+
+    <!-- Section Specific Colors -->
+    <color name="quiz_primary">#FF6F00</color>
+    <color name="quiz_secondary">#FFF3E0</color>
+
+    <color name="hospital_primary">#00796B</color>
+    <color name="hospital_secondary">#E0F2F1</color>
+
+    <color name="chat_primary">#7B1FA2</color>
+    <color name="chat_secondary">#F3E5F5</color>
+
+    <color name="news_primary">#C2185B</color>
+    <color name="news_secondary">#FCE4EC</color>
+
+    <color name="success_green">#388E3C</color>
+    <color name="error_red">#D32F2F</color>
+
+    <!-- Previous specific names to maintain compatibility -->
+    <color name="news_header">#C2185B</color>
+    <color name="chat_header">#7B1FA2</color>
+    <color name="nav_item_tint">#0D47A1</color>
+    <color name="icon_background">#E3F2FD</color>
+</resources>

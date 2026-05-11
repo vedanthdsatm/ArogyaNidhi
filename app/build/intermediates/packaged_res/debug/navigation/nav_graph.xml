@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/eligibilityQuizFragment">
+
+    <fragment
+        android:id="@+id/eligibilityQuizFragment"
+        android:name="com.arogyaniidhi.app.ui.eligibility.EligibilityQuizFragment"
+        android:label="Eligibility Quiz"
+        tools:layout="@layout/fragment_eligibility_quiz">
+        <action
+            android:id="@+id/action_eligibilityQuizFragment_to_resultFragment"
+            app:destination="@id/resultFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/resultFragment"
+        android:name="com.arogyaniidhi.app.ui.result.ResultFragment"
+        android:label="Results"
+        tools:layout="@layout/fragment_result">
+        <action
+            android:id="@+id/action_resultFragment_to_documentGuideFragment"
+            app:destination="@id/documentGuideFragment" />
+        <action
+            android:id="@+id/action_resultFragment_to_hospitalListFragment"
+            app:destination="@id/hospitalListFragment" />
+        <action
+            android:id="@+id/action_resultFragment_to_eligibilityQuizFragment"
+            app:destination="@id/eligibilityQuizFragment"
+            app:popUpTo="@id/eligibilityQuizFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/documentGuideFragment"
+        android:name="com.arogyaniidhi.app.ui.documents.DocumentGuideFragment"
+        android:label="Document Guide"
+        tools:layout="@layout/fragment_document_guide">
+        <argument
+            android:name="scheme"
+            app:argType="com.arogyaniidhi.app.data.model.HealthScheme" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/hospitalListFragment"
+        android:name="com.arogyaniidhi.app.ui.hospitals.HospitalListFragment"
+        android:label="Hospitals"
+        tools:layout="@layout/fragment_hospital_list" />
+
+    <fragment
+        android:id="@+id/chatbotFragment"
+        android:name="com.arogyaniidhi.app.ui.chatbot.ChatbotFragment"
+        android:label="Chatbot"
+        tools:layout="@layout/fragment_chatbot" />
+
+    <fragment
+        android:id="@+id/newsUpdatesFragment"
+        android:name="com.arogyaniidhi.app.ui.news.NewsUpdatesFragment"
+        android:label="Updates"
+        tools:layout="@layout/fragment_news_updates" />
+
+</navigation>

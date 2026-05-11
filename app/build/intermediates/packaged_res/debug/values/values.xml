@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_light">#F0F4F8</color>
+    <color name="chat_header">#7B1FA2</color>
+    <color name="chat_primary">#7B1FA2</color>
+    <color name="chat_secondary">#F3E5F5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#0D47A1</color>
+    <color name="colorPrimaryDark">#002171</color>
+    <color name="colorPrimaryLight">#5472D3</color>
+    <color name="error_red">#D32F2F</color>
+    <color name="hospital_primary">#00796B</color>
+    <color name="hospital_secondary">#E0F2F1</color>
+    <color name="icon_background">#E3F2FD</color>
+    <color name="nav_item_tint">#0D47A1</color>
+    <color name="news_header">#C2185B</color>
+    <color name="news_primary">#C2185B</color>
+    <color name="news_secondary">#FCE4EC</color>
+    <color name="quiz_primary">#FF6F00</color>
+    <color name="quiz_secondary">#FFF3E0</color>
+    <color name="success_green">#388E3C</color>
+    <color name="text_primary">#102A43</color>
+    <color name="text_secondary">#486581</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Arogya-Nidhi</string>
+    <string name="coverage_as_entitlement">Coverage as per entitlement</string>
+    <string name="documents_ready_message">✅ Keep these %1$d documents ready before visiting the office.</string>
+    <string name="eligibility_check">Eligibility Check</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="max_coverage">Max Coverage: %1$s</string>
+    <style name="Theme.ArogyaNidhi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+</resources>

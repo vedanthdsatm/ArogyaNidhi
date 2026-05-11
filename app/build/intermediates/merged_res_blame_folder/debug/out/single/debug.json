@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/layout_item_document_checklist.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/layout/item_document_checklist.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/layout_item_hospital.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/layout/item_hospital.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/drawable_spinner_background.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/layout_fragment_document_guide.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/layout/fragment_document_guide.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/layout_item_chat_message.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/layout/item_chat_message.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/layout_item_scheme_result.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/layout/item_scheme_result.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/drawable_ic_chatbot_nav.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/drawable/ic_chatbot_nav.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/layout_fragment_result.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/layout/fragment_result.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/layout_item_policy_news.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/layout/item_policy_news.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/layout_fragment_hospital_list.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/layout/fragment_hospital_list.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/layout_fragment_news_updates.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/layout/fragment_news_updates.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/drawable_ic_hospital_nav.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/drawable/ic_hospital_nav.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/layout_fragment_eligibility_quiz.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/layout/fragment_eligibility_quiz.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/drawable_ic_news_nav.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/drawable/ic_news_nav.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/navigation_nav_graph.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/layout_fragment_chatbot.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/layout/fragment_chatbot.xml"
+    },
+    {
+        "merged": "com.arogyaniidhi.app-merged_res-53:/drawable_ic_health_quiz.xml.flat",
+        "source": "com.arogyaniidhi.app-main-55:/drawable/ic_health_quiz.xml"
+    }
+]

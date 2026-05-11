@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arogya-Nidhi</string>
+    <string name="eligibility_check">Eligibility Check</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="max_coverage">Max Coverage: %1$s</string>
+    <string name="coverage_as_entitlement">Coverage as per entitlement</string>
+    <string name="documents_ready_message">✅ Keep these %1$d documents ready before visiting the office.</string>
+</resources>

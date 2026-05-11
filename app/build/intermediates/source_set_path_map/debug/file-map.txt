@@ -1,0 +1,56 @@
+com.arogyaniidhi.app-jetified-savedstate-ktx-1.2.1-0 /Users/vedanthmp/.gradle/caches/transforms-3/0783fb682b4e354670dce1539b473ff0/transformed/jetified-savedstate-ktx-1.2.1/res
+com.arogyaniidhi.app-appcompat-1.6.1-1 /Users/vedanthmp/.gradle/caches/transforms-3/13285c46e138c0c1385c2992495c9b53/transformed/appcompat-1.6.1/res
+com.arogyaniidhi.app-jetified-lifecycle-livedata-ktx-2.7.0-2 /Users/vedanthmp/.gradle/caches/transforms-3/391ac59a313f90d1aed58f992073a950/transformed/jetified-lifecycle-livedata-ktx-2.7.0/res
+com.arogyaniidhi.app-material-1.11.0-3 /Users/vedanthmp/.gradle/caches/transforms-3/3a40c6a51d4e233d098c415fd7991ce2/transformed/material-1.11.0/res
+com.arogyaniidhi.app-navigation-common-ktx-2.7.6-4 /Users/vedanthmp/.gradle/caches/transforms-3/3e4e900398ab076ffe8a8c616e5ba669/transformed/navigation-common-ktx-2.7.6/res
+com.arogyaniidhi.app-jetified-startup-runtime-1.1.1-5 /Users/vedanthmp/.gradle/caches/transforms-3/41221f88f081f2062dfe2e353cdf7923/transformed/jetified-startup-runtime-1.1.1/res
+com.arogyaniidhi.app-navigation-fragment-ktx-2.7.6-6 /Users/vedanthmp/.gradle/caches/transforms-3/460a6ba7bcd71dfa521b9123f5983837/transformed/navigation-fragment-ktx-2.7.6/res
+com.arogyaniidhi.app-navigation-fragment-2.7.6-7 /Users/vedanthmp/.gradle/caches/transforms-3/5c9f223c5e7a85de8dfe396ede3779e7/transformed/navigation-fragment-2.7.6/res
+com.arogyaniidhi.app-room-runtime-2.6.1-8 /Users/vedanthmp/.gradle/caches/transforms-3/6756e2bdd66182f04f6c1f5674226a7d/transformed/room-runtime-2.6.1/res
+com.arogyaniidhi.app-jetified-window-1.0.0-9 /Users/vedanthmp/.gradle/caches/transforms-3/6b4e8646fee14e437b68b4fa21712594/transformed/jetified-window-1.0.0/res
+com.arogyaniidhi.app-sqlite-framework-2.4.0-10 /Users/vedanthmp/.gradle/caches/transforms-3/7019c2ec80e26191c21db7fbb6fea4fd/transformed/sqlite-framework-2.4.0/res
+com.arogyaniidhi.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-11 /Users/vedanthmp/.gradle/caches/transforms-3/72c5399e3907accf9fd3501fb8bb4ea5/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.arogyaniidhi.app-core-1.12.0-12 /Users/vedanthmp/.gradle/caches/transforms-3/752dd2aa17be0c5843aff85260ec9828/transformed/core-1.12.0/res
+com.arogyaniidhi.app-jetified-savedstate-1.2.1-13 /Users/vedanthmp/.gradle/caches/transforms-3/7a6167189b9174e26b05ccda10e89691/transformed/jetified-savedstate-1.2.1/res
+com.arogyaniidhi.app-navigation-ui-ktx-2.7.6-14 /Users/vedanthmp/.gradle/caches/transforms-3/7aa791d48af63271fc55e5be41d6ec39/transformed/navigation-ui-ktx-2.7.6/res
+com.arogyaniidhi.app-jetified-lifecycle-runtime-ktx-2.7.0-15 /Users/vedanthmp/.gradle/caches/transforms-3/7eb8695ef238b23e2439bf8281c11e79/transformed/jetified-lifecycle-runtime-ktx-2.7.0/res
+com.arogyaniidhi.app-lifecycle-livedata-core-2.7.0-16 /Users/vedanthmp/.gradle/caches/transforms-3/7fa2d8cf31d61cfd674ec40d8b9c662e/transformed/lifecycle-livedata-core-2.7.0/res
+com.arogyaniidhi.app-lifecycle-livedata-2.7.0-17 /Users/vedanthmp/.gradle/caches/transforms-3/85f778b44376bc5cbd834b8d2662d70e/transformed/lifecycle-livedata-2.7.0/res
+com.arogyaniidhi.app-jetified-lifecycle-livedata-core-ktx-2.7.0-18 /Users/vedanthmp/.gradle/caches/transforms-3/87531b8a84fe69e165f1847b9f8673f8/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.arogyaniidhi.app-constraintlayout-2.1.4-19 /Users/vedanthmp/.gradle/caches/transforms-3/896943b749dcad922793d5600b2f3e60/transformed/constraintlayout-2.1.4/res
+com.arogyaniidhi.app-coordinatorlayout-1.1.0-20 /Users/vedanthmp/.gradle/caches/transforms-3/8cf996c280cfb01487deacc7b85e07a8/transformed/coordinatorlayout-1.1.0/res
+com.arogyaniidhi.app-jetified-annotation-experimental-1.3.0-21 /Users/vedanthmp/.gradle/caches/transforms-3/8d10e76be897554f4efa5e7d7f143689/transformed/jetified-annotation-experimental-1.3.0/res
+com.arogyaniidhi.app-fragment-1.6.2-22 /Users/vedanthmp/.gradle/caches/transforms-3/8d9dcdfc3642b8af877a1ff1e234f9d3/transformed/fragment-1.6.2/res
+com.arogyaniidhi.app-sqlite-2.4.0-23 /Users/vedanthmp/.gradle/caches/transforms-3/a09be03cb20d2137f422137d95c3d4d9/transformed/sqlite-2.4.0/res
+com.arogyaniidhi.app-jetified-lifecycle-viewmodel-ktx-2.7.0-24 /Users/vedanthmp/.gradle/caches/transforms-3/a2545c06898ebabf4cc4a9105f2c10d5/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/res
+com.arogyaniidhi.app-core-runtime-2.2.0-25 /Users/vedanthmp/.gradle/caches/transforms-3/a3437f0854f8d7d97402a70c6bbf4295/transformed/core-runtime-2.2.0/res
+com.arogyaniidhi.app-jetified-activity-1.8.0-26 /Users/vedanthmp/.gradle/caches/transforms-3/a8b297bb778515a837b4a209c2be5e9b/transformed/jetified-activity-1.8.0/res
+com.arogyaniidhi.app-jetified-fragment-ktx-1.6.2-27 /Users/vedanthmp/.gradle/caches/transforms-3/aa9f9fe1e5edae410f78ed6a6db8eb88/transformed/jetified-fragment-ktx-1.6.2/res
+com.arogyaniidhi.app-navigation-ui-2.7.6-28 /Users/vedanthmp/.gradle/caches/transforms-3/b21132c8889aaefc22b641d3fbad0de5/transformed/navigation-ui-2.7.6/res
+com.arogyaniidhi.app-recyclerview-1.3.2-29 /Users/vedanthmp/.gradle/caches/transforms-3/b5dfe3304aa6244c812f6fa47c5350a9/transformed/recyclerview-1.3.2/res
+com.arogyaniidhi.app-jetified-profileinstaller-1.3.0-30 /Users/vedanthmp/.gradle/caches/transforms-3/b88114fc64b65e2db49b7d1d4bd10e0f/transformed/jetified-profileinstaller-1.3.0/res
+com.arogyaniidhi.app-lifecycle-viewmodel-2.7.0-31 /Users/vedanthmp/.gradle/caches/transforms-3/bd84b6568716b5a5ec7fd1ea2fca0d6e/transformed/lifecycle-viewmodel-2.7.0/res
+com.arogyaniidhi.app-jetified-lifecycle-process-2.7.0-32 /Users/vedanthmp/.gradle/caches/transforms-3/be451f5107f1163fb50679a3ba7efd56/transformed/jetified-lifecycle-process-2.7.0/res
+com.arogyaniidhi.app-jetified-viewpager2-1.1.0-beta02-33 /Users/vedanthmp/.gradle/caches/transforms-3/c113ae3919c389170db12162278e41f9/transformed/jetified-viewpager2-1.1.0-beta02/res
+com.arogyaniidhi.app-drawerlayout-1.1.1-34 /Users/vedanthmp/.gradle/caches/transforms-3/c5a693783feecaa8e48db3518302f277/transformed/drawerlayout-1.1.1/res
+com.arogyaniidhi.app-slidingpanelayout-1.2.0-35 /Users/vedanthmp/.gradle/caches/transforms-3/c847cc7fc6f23d602cea485d7e7454d6/transformed/slidingpanelayout-1.2.0/res
+com.arogyaniidhi.app-navigation-runtime-ktx-2.7.6-36 /Users/vedanthmp/.gradle/caches/transforms-3/cb605815f86df2ddca939d16b3a9d759/transformed/navigation-runtime-ktx-2.7.6/res
+com.arogyaniidhi.app-jetified-emoji2-views-helper-1.2.0-37 /Users/vedanthmp/.gradle/caches/transforms-3/cc0df4ea1f5161967fa4d04274edcf8d/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.arogyaniidhi.app-jetified-activity-ktx-1.8.0-38 /Users/vedanthmp/.gradle/caches/transforms-3/d39d4e7b7df2b3dcce4946aa93846869/transformed/jetified-activity-ktx-1.8.0/res
+com.arogyaniidhi.app-jetified-appcompat-resources-1.6.1-39 /Users/vedanthmp/.gradle/caches/transforms-3/dec28fff1ab119ee5f14b3e9810964c1/transformed/jetified-appcompat-resources-1.6.1/res
+com.arogyaniidhi.app-lifecycle-runtime-2.7.0-40 /Users/vedanthmp/.gradle/caches/transforms-3/dfe7cadf9dc13978baef85f7805e7d0c/transformed/lifecycle-runtime-2.7.0/res
+com.arogyaniidhi.app-cardview-1.0.0-41 /Users/vedanthmp/.gradle/caches/transforms-3/e216d1a95792e456c1dc3c2a02c99468/transformed/cardview-1.0.0/res
+com.arogyaniidhi.app-transition-1.4.1-42 /Users/vedanthmp/.gradle/caches/transforms-3/e4d6fe76267c5241bdfa2a6c9499709a/transformed/transition-1.4.1/res
+com.arogyaniidhi.app-navigation-common-2.7.6-43 /Users/vedanthmp/.gradle/caches/transforms-3/eacce49e8162a7f9743ac35c7d2b77ff/transformed/navigation-common-2.7.6/res
+com.arogyaniidhi.app-jetified-core-ktx-1.12.0-44 /Users/vedanthmp/.gradle/caches/transforms-3/eca04809f0e6a953e70d2622d2937fc5/transformed/jetified-core-ktx-1.12.0/res
+com.arogyaniidhi.app-jetified-room-ktx-2.6.1-45 /Users/vedanthmp/.gradle/caches/transforms-3/ef5fb0a8398298e52fd0c12ecc645bf9/transformed/jetified-room-ktx-2.6.1/res
+com.arogyaniidhi.app-navigation-runtime-2.7.6-46 /Users/vedanthmp/.gradle/caches/transforms-3/f24aa9098b45a1a4ebb1eeb636091e7e/transformed/navigation-runtime-2.7.6/res
+com.arogyaniidhi.app-jetified-emoji2-1.2.0-47 /Users/vedanthmp/.gradle/caches/transforms-3/f27aeeb48814f03fd1cc515a7a70dd1d/transformed/jetified-emoji2-1.2.0/res
+com.arogyaniidhi.app-jetified-customview-poolingcontainer-1.0.0-48 /Users/vedanthmp/.gradle/caches/transforms-3/fa347e839cf36200852e954bd29d2a0f/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.arogyaniidhi.app-pngs-49 /Users/vedanthmp/Desktop/ArogyaNidhi 2/app/build/generated/res/pngs/debug
+com.arogyaniidhi.app-resValues-50 /Users/vedanthmp/Desktop/ArogyaNidhi 2/app/build/generated/res/resValues/debug
+com.arogyaniidhi.app-packageDebugResources-51 /Users/vedanthmp/Desktop/ArogyaNidhi 2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.arogyaniidhi.app-packageDebugResources-52 /Users/vedanthmp/Desktop/ArogyaNidhi 2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.arogyaniidhi.app-merged_res-53 /Users/vedanthmp/Desktop/ArogyaNidhi 2/app/build/intermediates/merged_res/debug
+com.arogyaniidhi.app-debug-54 /Users/vedanthmp/Desktop/ArogyaNidhi 2/app/src/debug/res
+com.arogyaniidhi.app-main-55 /Users/vedanthmp/Desktop/ArogyaNidhi 2/app/src/main/res
