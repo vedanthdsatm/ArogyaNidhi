@@ -1,6 +1,6 @@
 # Arogya-Nidhi 🏥
 **Android App – Health Scheme Eligibility Checker**
-*Project Title: 61 | MindMatrix VTO Internship Program*
+
 
 ---
 
