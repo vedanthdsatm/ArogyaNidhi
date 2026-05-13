@@ -108,16 +108,3 @@ Launch
                     └─► Find Hospitals ──► Hospital List (searchable by district)
 ```
 
----
-
-## 🔧 Extending the App
-- **Add more schemes:** Edit `EligibilityEngine.kt` and add a new `HealthScheme` block
-- **Add hospitals:** Add entries to the `hospitals` list in `HospitalRepository.kt`
-- **Room DB:** Replace in-memory lists with Room entities for persistent storage
-- **State-specific schemes:** Add state parameter checks in `EligibilityEngine`
-
----
-
-## 📜 License
-Internal project for MindMatrix VTO Internship Program.
-# ArogyaNidhi-
