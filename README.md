@@ -1,15 +1,15 @@
-# Arogya-Nidhi 🏥
+# Arogya Nidhi 
 **Android App – Health Scheme Eligibility Checker**
 
 
 ---
 
-## 📌 About
+## About
 Arogya-Nidhi helps rural families discover which government health schemes they are eligible for. Users answer a 5-step quiz about their family, and the app returns matching schemes, required documents, and nearby empanelled hospitals.
 
 ---
 
-## ✨ Features
+## Features
 | Feature | Description |
 |---------|-------------|
 | **Eligibility Quiz** | 5-step stepper UI — income, occupation, BPL status, family size, location |
@@ -21,7 +21,7 @@ Arogya-Nidhi helps rural families discover which government health schemes they 
 
 ---
 
-## 🏛️ Schemes Covered
+## Schemes Covered
 - Ayushman Bharat – PM-JAY (₹5 lakh cover)
 - Central Government Health Scheme (CGHS)
 - Pradhan Mantri Suraksha Bima Yojana
@@ -32,7 +32,7 @@ Arogya-Nidhi helps rural families discover which government health schemes they 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Kotlin
 - **Min SDK:** 24 (Android 7.0)
 - **Target SDK:** 34 (Android 14)
@@ -43,7 +43,7 @@ Arogya-Nidhi helps rural families discover which government health schemes they 
 
 ---
 
-## 🚀 How to Run in Android Studio
+##  How to Run in Android Studio
 
 ### Prerequisites
 - Android Studio Hedgehog (2023.1.1) or later
@@ -60,7 +60,7 @@ Arogya-Nidhi helps rural families discover which government health schemes they 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 app/src/main/
 ├── java/com/arogyaniidhi/app/
@@ -93,7 +93,7 @@ app/src/main/
 
 ---
 
-## 📱 App Flow
+## App Flow
 ```
 Launch
   └─► Eligibility Quiz (5 Steps)
