@@ -59,6 +59,24 @@ Arogya-Nidhi helps rural families discover which government health schemes they 
 6. Click **▶ Run** or press `Shift+F10`
 
 ---
+### Setup & Run (IDE)
+1. **Clone/Open Project:** Open Android Studio and select **Open** -> Navigate to the `ArogyaNidhi` folder.
+2. **Gradle Sync:** Wait for the "Gradle Sync" to complete. If it fails, ensure you are connected to the internet to download dependencies.
+3. **Emulator/Device:** 
+   - Open **Device Manager**.
+   - Start an emulator with **API 24 or higher**.
+   - *Tip: If the emulator is stuck on the Google logo, try "Cold Boot Now" from the Device Manager.*
+4. **Run:** Click the green **Run** button (▶) in the toolbar or press `Shift + F10`.
+
+### Run via Command Line (CLI)
+Navigate to the project root and use the Gradle Wrapper:
+```bash
+# Build the project
+./gradlew assembleDebug
+
+# Install on connected device/emulator
+./gradlew installDebug
+```
 
 ##  Project Structure
 ```
